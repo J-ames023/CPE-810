@@ -1,0 +1,2 @@
+C:\Users\james\source\repos\Project-Scan\Project-Scan\x64\Debug\Project-Scan.exe
+C:\Users\james\source\repos\Project-Scan\Project-Scan\x64\Debug\Project-Scan.pdb

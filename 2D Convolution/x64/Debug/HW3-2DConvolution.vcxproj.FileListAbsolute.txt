@@ -1,0 +1,2 @@
+C:\Users\james\source\repos\HW3-2DConvolution\x64\Debug\HW3-2DConvolution.exe
+C:\Users\james\source\repos\HW3-2DConvolution\x64\Debug\HW3-2DConvolution.pdb

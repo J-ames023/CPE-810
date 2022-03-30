@@ -1,0 +1,2 @@
+C:\Users\james\source\repos\HW2-Histogram\x64\Debug\HW2-Histogram.exe
+C:\Users\james\source\repos\HW2-Histogram\x64\Debug\HW2-Histogram.pdb

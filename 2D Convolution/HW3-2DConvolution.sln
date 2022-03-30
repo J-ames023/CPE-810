@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HW3-2DConvolution", "HW3-2DConvolution.vcxproj", "{D71F6C4D-B54B-451A-9FE9-763772697D17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D71F6C4D-B54B-451A-9FE9-763772697D17}.Debug|x64.ActiveCfg = Debug|x64
+		{D71F6C4D-B54B-451A-9FE9-763772697D17}.Debug|x64.Build.0 = Debug|x64
+		{D71F6C4D-B54B-451A-9FE9-763772697D17}.Release|x64.ActiveCfg = Release|x64
+		{D71F6C4D-B54B-451A-9FE9-763772697D17}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {464F6820-EE88-4FA1-871F-55E451793F83}
+	EndGlobalSection
+EndGlobal
